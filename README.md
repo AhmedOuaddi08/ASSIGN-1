@@ -73,7 +73,7 @@ The notebook loads them, filters `eng` and `fra`, then merges through links to b
 
 ### B) Europarl files (optional, used for bilingual dictionary extraction)
 
-[Link Text]([https://tatoeba.org](https://www.statmt.org/europarl/v7/))
+[Link Text]((https://www.statmt.org/europarl/v7/))
 If you run the dictionary extraction section, place these files in `data/`:
 
 - `europarl-v7.fr-en.en`
